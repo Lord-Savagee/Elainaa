@@ -1,7 +1,7 @@
 <!-- ![Just...]() -->
 
 <div align='center'>
-<img src="https://www.linkpicture.com/q/4BDE6F9A-D297-4432-9C21-B06F91002E85.jpeg" 
+<img src="https://telegra.ph/file/7f5f42c78f2d38d93a143.jpg" 
      width="200" 
      height="200" />
 
