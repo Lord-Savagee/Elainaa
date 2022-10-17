@@ -233,7 +233,7 @@ module.exports = async (sock, msg) => {
         await db.add(`${sender}.Xp`, xp)
         const reactionMessage = {
             react: {
-                text: `✅`,
+                text: `🕊️`,
                 key: msg.key,
             },
         };
@@ -546,10 +546,10 @@ module.exports = async (sock, msg) => {
         if (text) {
             anu = text.split('|')
             packName = anu[0] !== '' ? anu[0] : "BOT 🤖"
-            authorName = anu[1] !== '' ? anu[1] : "Ruka_San"
+            authorName = anu[1] !== '' ? anu[1] : "Lord-Savage"
         } else {
-            packName = "BOT 🤖";
-            authorName = "Ruka_San";
+            packName = "BOT 🕊️";
+            authorName = "Lord Savage";
         }
         const getRandom = (ext) => {
             return `${Math.floor(Math.random() * 10000)}${ext}`;
@@ -733,10 +733,10 @@ module.exports = async (sock, msg) => {
             if (text) {
                 anu = text.split('|')
                 packName = anu[0] !== '' ? anu[0] : "BOT 🤖"
-                authorName = anu[1] !== '' ? anu[1] : "Ruka_San"
+                authorName = anu[1] !== '' ? anu[1] : "Lord-Savage"
             } else {
                 packName = "BOT 🤖";
-                authorName = "Ruka_San";
+                authorName = "Lord-Savage";
             }
             
             const sticker = new Sticker(buffer, {
