@@ -5,7 +5,7 @@
      width="200" 
      height="200" />
 
-<h2> Ruka-Botto </h2><be>
+<h2> Lord Savage </h2><be>
   
 <a href='https://github.com/iamherok/WhatsApp-Botto-Ruka/blob/master/LICENSE'>
   
